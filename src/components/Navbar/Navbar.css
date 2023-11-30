@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+
+menu {
+    display: flex;
+    gap: 1rem;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: lightgray;
+}
